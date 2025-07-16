@@ -17,3 +17,4 @@ jobs:
           firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_ANALISE_PERFORMANCE_48DBA }}
           channelId: live
           projectId: analise-performance-48dba
+
